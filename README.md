@@ -8,9 +8,10 @@ Given the increasing number of countries reporting degraded air quality, effecti
 
 ### Data
 We collected our dataset from the Korean Ministry of Environment and Airkorea and the datasets for experiment could not be uploaded because of the data memory problem. If anyone requires the complete dataset, please feel free to request it.
+below figure shows the shifting process of dataset for LSTM
+<img src='https://github.com/dxlabskku/FineDust/assets/68065313/e9713dd7-2e01-403e-907c-537b28b431a9' width='700' height='400'>
 
 ### Result
 The results revealed that LSTM performed better than all other machine learning models. The RMSE and Pearson correlation of LSTM were 23.48 and 0.6176, respectively. 
 
-
-![result](https://github.com/dxlabskku/FineDust/assets/68065313/620c3b9e-8d7e-4e6f-aefe-d8b687378e8f){: width="70%" height="70%"}
+<img src='https://github.com/dxlabskku/FineDust/assets/68065313/620c3b9e-8d7e-4e6f-aefe-d8b687378e8f' width='800' height='300'>
